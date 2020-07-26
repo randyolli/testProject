@@ -11,4 +11,4 @@ git commit -m "message"   (stages your changes for saving)
 
 git push origin master    (Saves your local changes to the cloud)
 
-git pull origin master    (brings cloud changes to the local machine)
+git pull                  (brings cloud changes to the local machine)
